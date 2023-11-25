@@ -3,10 +3,7 @@
 # Portfolio Website Using HTML,CSS,JS
 <a href="https://muhammadsaad-ml.github.io">CLICK TO OPEN PORTFOLIO WEBSITE</a>
 
-<video width="260" height="160" controls>
-  <source src="https://i.imgur.com/8cT8w0B.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 <img src="https://i.imgur.com/Zos7JNb.png">
 
