@@ -12,7 +12,7 @@
 This is a Portfolio Website built using HTML,CSS,JS. 
 
 
-## SECTIONS:
+## SECTIONS::
 
 - **About**: Following section include details of my background and study.
 - **Certifications**: Following section include certificates of the courses i take .
