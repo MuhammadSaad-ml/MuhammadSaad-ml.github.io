@@ -9,7 +9,7 @@
 
 
 
-This is a Portfolio Website built using HTML,CSS,JS. 
+This is a Portfolio Website built using HTML,CSS,JS..
 
 
 ## SECTIONS::
